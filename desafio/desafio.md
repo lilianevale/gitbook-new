@@ -1,6 +1,6 @@
 # Desafio:
 
-No desafio abaixo, considere que, você não desenvolvera códigos funcionais, apenas documentos do tipo ".txt" com um texto simples.
+No desafio a seguir, considere que, você não desenvolvera códigos funcionais, apenas documentos do tipo ".txt" com um texto simples.
 
 Contexto:
 

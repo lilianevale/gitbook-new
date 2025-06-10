@@ -25,6 +25,7 @@
 * [Clonando um repositório remoto e atualizando a versão local](criando-branches-em-repositorios/clonando-um-repositorio-remoto-e-atualizando-a-versao-local.md)
 * [Criando Branches](criando-branches-em-repositorios/criando-branches/README.md)
   * [Comando merge](criando-branches-em-repositorios/criando-branches/comando-merge.md)
+* [Teste](criando-branches-em-repositorios/teste.md)
 
 ## Git Flow
 

@@ -13,7 +13,7 @@
 
 ## Estrutura, configurações e primeiros passos
 
-* [Criando o primeiro repositório no GitHub](estrutura-configuracoes-e-primeiros-passos/criando-o-primeiro-repositorio-no-github/README.md)
+* [Criando o primeiro repositório no GitHub 1](estrutura-configuracoes-e-primeiros-passos/criando-o-primeiro-repositorio-no-github/README.md)
   * [Adicionando arquivos no repositório](estrutura-configuracoes-e-primeiros-passos/criando-o-primeiro-repositorio-no-github/adicionando-arquivos-no-repositorio.md)
   * [O comando Status](estrutura-configuracoes-e-primeiros-passos/criando-o-primeiro-repositorio-no-github/o-comando-status.md)
   * [Commits](estrutura-configuracoes-e-primeiros-passos/criando-o-primeiro-repositorio-no-github/commits.md)
